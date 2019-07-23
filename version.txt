@@ -1,3 +1,7 @@
 version 0.1
 
-Primera version de cambio de palabra con un botón
+Primera versión de cambio de palabra con un botón
+
+
+
+La segunda versión sale el próximo 1 de agosto. 2019 
